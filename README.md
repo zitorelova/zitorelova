@@ -13,6 +13,7 @@
 <br />
 <br />
 
+<h2>Latest Blog Posts <img src="https://gifer.com/embed/PadH" width="64px"> </h2>
 <!-- BLOG-POST-LIST:START -->
 - [Feature Importance in Machine Learning Models](https://towardsdatascience.com/feature-importance-in-machine-learning-models-c4396c519eb9?source=rss-265ad0e54c86------2)
 - [Explain Machine Learning Models: Partial Dependence](https://towardsdatascience.com/explain-machine-learning-models-partial-dependence-ce6b9923034f?source=rss-265ad0e54c86------2)
