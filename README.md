@@ -10,7 +10,7 @@
 <a href = 'https://zito-relova.medium.com/'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
 <a href = 'https://www.github.com/zitorelova'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
-</div>\
+</div>
 
 <!-- BLOG-POST-LIST:START -->
 - [Feature Importance in Machine Learning Models](https://towardsdatascience.com/feature-importance-in-machine-learning-models-c4396c519eb9?source=rss-265ad0e54c86------2)
