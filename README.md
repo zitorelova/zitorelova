@@ -1,8 +1,6 @@
 
-# Hello World :wave:
-![visitors](https://visitor-badge.glitch.me/badge?page_id=zitorelova.zitorelova)
+<div size='20px'> Hi! My name is Zito Relova. Thanks for taking the time to view my GitHub profile!
 
-<div size='20px'> Hi! My name is Zito Relova. Thank You for taking the time to view my GitHub Profile :smile: 
 <h2> Connect with me :handshake: </h2>
 <a href = 'https://www.linkedin.com/in/zrelova'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/zitorelova'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
