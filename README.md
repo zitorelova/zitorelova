@@ -13,7 +13,7 @@
 <h2>Latest Blog Posts :bookmark_tabs: </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Writing Better Code Through Testing](https://towardsdatascience.com/writing-better-code-through-testing-f3150abec6ca?source=rss-265ad0e54c86------2)
 - [SHAP Values for Model Interpretation](https://towardsdatascience.com/shap-values-for-model-interpretation-268680a25012?source=rss-265ad0e54c86------2)
 - [Feature Importance in Machine Learning Models](https://towardsdatascience.com/feature-importance-in-machine-learning-models-c4396c519eb9?source=rss-265ad0e54c86------2)
-- [Explain Machine Learning Models: Partial Dependence](https://towardsdatascience.com/explain-machine-learning-models-partial-dependence-ce6b9923034f?source=rss-265ad0e54c86------2)
 <!-- BLOG-POST-LIST:END -->
