@@ -17,3 +17,9 @@
 - [SHAP Values for Model Interpretation](https://towardsdatascience.com/shap-values-for-model-interpretation-268680a25012?source=rss-265ad0e54c86------2)
 - [Feature Importance in Machine Learning Models](https://towardsdatascience.com/feature-importance-in-machine-learning-models-c4396c519eb9?source=rss-265ad0e54c86------2)
 <!-- BLOG-POST-LIST:END -->
+
+<h2>Open Source Contributions</h2>
+
+- [Pandas](https://github.com/pulls?q=author:zitorelova+org:pandas-dev+is:pr)
+- [Scikit-Learn](https://github.com/pulls?q=author:zitorelova+org:scikit-learn+is:pr)
+- [Matplotlib](https://github.com/pulls?q=author:zitorelova+org:matplotlib+is:pr)
