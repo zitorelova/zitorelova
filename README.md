@@ -18,6 +18,13 @@
 - [Feature Importance in Machine Learning Models](https://towardsdatascience.com/feature-importance-in-machine-learning-models-c4396c519eb9?source=rss-265ad0e54c86------2)
 <!-- BLOG-POST-LIST:END -->
 
+<h2>Highlighted Projects :robot: </h2>
+
+ - [Neural Doodle Generation](https://github.com/zitorelova/neural-doodle-generation)
+ - [Neural Style Transfer](https://github.com/zitorelova/neural-style-transfer)
+ - [Airbus Ship Detection](https://github.com/zitorelova/airbus-ship-detection)
+ - [Text Prediction Model](https://github.com/zitorelova/text-prediction-model)
+
 <h2>Open Source Contributions :computer: </h2>
 
 - [Pandas](https://github.com/pulls?q=author:zitorelova+org:pandas-dev+is:pr)
