@@ -21,6 +21,7 @@
  - [Neural Style Transfer](https://github.com/zitorelova/neural-style-app)
  - [Neural Doodle Generation](https://github.com/zitorelova/neural-doodle-generation)
  - [Airbus Ship Detection](https://github.com/zitorelova/airbus-ship-detection)
+ - [One Stop Grocery](https://github.com/zitorelova/one-stop-grocery)
  - [Text Prediction Model](https://github.com/zitorelova/text-prediction-model)
 
 <h2>Open Source Contributions :computer: </h2>
