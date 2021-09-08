@@ -12,6 +12,7 @@
 
 <h2>Recent Blog Posts :bookmark_tabs: </h2>
 
+- [Operationalizing Machine Learning](https://learn.layer.co/operationalizing-machine-learning/)
 - [SHAP Values for Model Interpretation](https://towardsdatascience.com/shap-values-for-model-interpretation-268680a25012?source=rss-265ad0e54c86------2)
 - [Feature Importance in Machine Learning Models](https://towardsdatascience.com/feature-importance-in-machine-learning-models-c4396c519eb9?source=rss-265ad0e54c86------2)
 - [The Importance of Testing](https://towardsdatascience.com/the-importance-of-testing-your-python-code-9b1262d009dc)
