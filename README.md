@@ -23,8 +23,8 @@
  - [Neural Doodle Generation](https://github.com/zitorelova/neural-doodle-generation)
  - [Automated Machine Learning](https://github.com/zitorelova/auto-ml)
  - [Airbus Ship Detection](https://github.com/zitorelova/airbus-ship-detection)
+ - [N-Gram Text Prediction](https://github.com/zitorelova/text-prediction-model)
  - [One Stop Grocery](https://github.com/zitorelova/one-stop-grocery)
- - [Text Prediction Model](https://github.com/zitorelova/text-prediction-model)
 
 <h2>Open Source Contributions :computer: </h2>
 
